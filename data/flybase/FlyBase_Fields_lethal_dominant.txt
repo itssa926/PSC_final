@@ -1,0 +1,88 @@
+#SUBMITTED ID	FBID_KEY	NAME	SYMBOL
+FBgn0002417	FBgn0002417	lethal (3) DTS4	l(3)DTS4
+FBgn0015405	FBgn0015405	lethal (1) 11Fc	l(1)11Fc
+FBgn0002418	FBgn0002418	lethal (3) DTS6	l(3)DTS6
+FBgn0283471	FBgn0283471	wings up A	wupA
+FBgn0000308	FBgn0000308	chickadee	chic
+FBgn0010139	FBgn0010139	lethal (2) DTS20	l(2)DTS20
+FBgn0263490	FBgn0263490	molting defective	mld
+FBgn0015950	FBgn0015950	helter-skelter	hsk
+FBgn0015582	FBgn0015582	defective in the avoidance of repellents	dare
+FBgn0262743	FBgn0262743	Female sterile (2) Ketel	Fs(2)Ket
+FBgn0001549	FBgn0001549	lethal (1) 16Fc	l(1)16Fc
+FBgn0264270	FBgn0264270	Sex lethal	Sxl
+FBgn0002057	FBgn0002057	lethal (2) 40Fa	l(2)40Fa
+FBgn0260632	FBgn0260632	dorsal	dl
+FBgn0001548	FBgn0001548	lethal (1) 16Fb	l(1)16Fb
+FBgn0005206	FBgn0005206	lethal (3) DTS10	l(3)DTS10
+FBgn0014995	FBgn0014995	osk::Dvir\osk	osk::Dvir\osk
+FBgn0266599	FBgn0266599	Heat shock protein 70 cognate 4	Hsc70-4
+FBgn0087040	FBgn0087040	alpha-Tubulin at 67C	alphaTub67C
+FBgn0263755	FBgn0263755	Suppressor of variegation 3-9	Su(var)3-9
+FBgn0001920	FBgn0001920	lethal (2) 25Ca	l(2)25Ca
+FBgn0002566	FBgn0002566	light	lt
+FBgn0004644	FBgn0004644	hedgehog	hh
+FBgn0002415	FBgn0002415	lethal (3) DTS2	l(3)DTS2
+FBgn0010149	FBgn0010149	lethal (3) DTS-I165	l(3)DTS-I165
+FBgn0000533	FBgn0000533	easter	ea
+FBgn0000299	FBgn0000299	Collagen type IV alpha 1	Col4a1
+FBgn0004072	FBgn0004072	female sterile (2) maternal effect lethal 6	fs(2)mel6
+FBgn0003339	FBgn0003339	Sex combs reduced	Scr
+FBgn0003449	FBgn0003449	sans fille	snf
+FBgn0069202	FBgn0069202	lethal (2) 46Fb	l(2)46Fb
+FBgn0003733	FBgn0003733	torso	tor
+FBgn0005146	FBgn0005146	lethal (2) DTS9	l(2)DTS9
+FBgn0260642	FBgn0260642	Antennapedia	Antp
+FBgn0002414	FBgn0002414	lethal (3) DTS1	l(3)DTS1
+FBgn0003407	FBgn0003407	sieve	sie
+FBgn0000182	FBgn0000182	Bicaudal C	BicC
+FBgn0001027	FBgn0001027	Female sterile (3) Apc	Fs(3)Apc
+FBgn0002618	FBgn0002618	Minute (3) 80	M(3)80
+FBgn0020541	FBgn0020541	lethal (2) DTS4	l(2)DTS4
+FBgn0020290	FBgn0020290	lethal (2) M167	l(2)M167
+FBgn0003716	FBgn0003716	thickveins	tkv
+FBgn0001485	FBgn0001485	lethal (1) 10Ae	l(1)10Ae
+FBgn0002962	FBgn0002962	nanos	nanos
+FBgn0023082	FBgn0023082	fs(2)H47	fs(2)H47
+FBgn0011706	FBgn0011706	reaper	rpr
+FBgn0243512	FBgn0243512	puckered	puc
+FBgn0002284	FBgn0002284	Proteasome beta6 subunit	Prosbeta6
+FBgn0000377	FBgn0000377	crooked neck	crn
+FBgn0005143	FBgn0005143	lethal (2) DTS1	l(2)DTS1
+FBgn0004073	FBgn0004073	female sterile (2) maternal effect lethal 7	fs(2)mel7
+FBgn0011236	FBgn0011236	ken and barbie	ken
+FBgn0000450	FBgn0000450	dicephalic	dic
+FBgn0000183	FBgn0000183	Bicaudal D	BicD
+FBgn0003015	FBgn0003015	oskar	osk
+FBgn0000490	FBgn0000490	decapentaplegic	dpp
+FBgn0000250	FBgn0000250	cactus	cact
+FBgn0023174	FBgn0023174	Proteasome beta2 subunit	Prosbeta2
+FBgn0005145	FBgn0005145	lethal (2) DTS8	l(2)DTS8
+FBgn0023036	FBgn0023036	lethal (2) 46Eg	l(2)46Eg
+FBgn0012030	FBgn0012030	lethal (2) DTS18 Suzuki & Procunier	l(2)DTS18SP
+FBgn0004864	FBgn0004864	hopscotch	hop
+FBgn0005144	FBgn0005144	lethal (2) DTS6	l(2)DTS6
+FBgn0010141	FBgn0010141	lethal (2) DTS513	l(2)DTS513
+FBgn0001218	FBgn0001218	Heat shock protein 70 cognate 3	Hsc70-3
+FBgn0001029	FBgn0001029	Female sterile (3) Baksa	Fs(3)Bak
+FBgn0005148	FBgn0005148	lethal (2) DTS19	l(2)DTS19
+FBgn0003495	FBgn0003495	spatzle	spz
+FBgn0001484	FBgn0001484	lethal (1) 10Ad	l(1)10Ad
+FBgn0005205	FBgn0005205	lethal (3) DTS9	l(3)DTS9
+FBgn0001139	FBgn0001139	groucho	gro
+FBgn0015031	FBgn0015031	cyclope	cype
+FBgn0002542	FBgn0002542	lodestar	lds
+FBgn0086784	FBgn0086784	stambha A	stmA
+FBgn0004882	FBgn0004882	oo18 RNA-binding protein	orb
+FBgn0002420	FBgn0002420	lethal (3) DTS8	l(3)DTS8
+FBgn0034181	FBgn0034181	Poly(A) binding protein interacting protein 1	Paip1
+FBgn0001028	FBgn0001028	Female sterile (3) Avar	Fs(3)Ava
+FBgn0003256	FBgn0003256	rolled	rl
+FBgn0001180	FBgn0001180	hunchback	hb
+FBgn0011777	FBgn0011777	lethal (2) DTS18 Wright & Falke	l(2)DTS18WF
+FBgn0087012	FBgn0087012	5-hydroxytryptamine (serotonin) receptor 2A	5-HT2A
+FBgn0262473	FBgn0262473	Toll	Tl
+FBgn0011778	FBgn0011778	lethal (2) DTS91	l(2)DTS91
+FBgn0000114	FBgn0000114	bruno 1	bru1
+FBgn0002061	FBgn0002061	lethal (2) 40Ff	l(2)40Ff
+FBgn0010138	FBgn0010138	lethal (2) DTS100	l(2)DTS100
